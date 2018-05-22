@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "MyriadPro-BoldIt";
+    src: url('MyriadPro-BoldIt.eot'); /* IE9*/
+    src: url('MyriadPro-BoldIt.eot?t=1521724317403#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('MyriadPro-BoldIt.woff2?t=1521724317403') format('woff2'), 
+    url('MyriadPro-BoldIt.woff?t=1521724317403') format('woff'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('MyriadPro-BoldIt.ttf?t=1521724317403') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('MyriadPro-BoldIt.svg?t=1521724317403') format('svg'); /* iOS 4.1- */
+  }
+
+  @font-face {
+    font-family: 'DINCondensed-Bold';
+    src: url('dincondensed-webfont.woff2') format('woff2'),
+         url('dincondensed-webfont.woff') format('woff');
+}
